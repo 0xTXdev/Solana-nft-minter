@@ -1,0 +1,39 @@
+{
+  "name": "Phoenix NFT 500 #83",
+  "description": "500 NFT collection of Phoenix",
+  "image": "./images/83.png",
+  "dna": "abeeb0e49414c258926056334f97209f20bdb4f7",
+  "edition": 83,
+  "date": 1720541186428,
+  "attributes": [
+    {
+      "trait_type": "01 Background",
+      "value": "Mono"
+    },
+    {
+      "trait_type": "02 Skin",
+      "value": "OG Phoenix"
+    },
+    {
+      "trait_type": "03 Decor",
+      "value": "Enclosure Beads"
+    },
+    {
+      "trait_type": "04 Eyes",
+      "value": "Classic Eyes"
+    },
+    {
+      "trait_type": "05 Head",
+      "value": "BvB Sun Town"
+    },
+    {
+      "trait_type": "06 Fit",
+      "value": "Dealer"
+    },
+    {
+      "trait_type": "07 Nose",
+      "value": "Gold Phoenix Beak"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

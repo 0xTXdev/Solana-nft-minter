@@ -1,0 +1,39 @@
+{
+  "name": "Phoenix NFT 500 #13",
+  "description": "500 NFT collection of Phoenix",
+  "image": "./images/13.png",
+  "dna": "c24d1daf4e004d71d92cfa8d09caa6e6ee6fdec8",
+  "edition": 13,
+  "date": 1720541123594,
+  "attributes": [
+    {
+      "trait_type": "01 Background",
+      "value": "Bright Yellow"
+    },
+    {
+      "trait_type": "02 Skin",
+      "value": "OG Phoenix"
+    },
+    {
+      "trait_type": "03 Decor",
+      "value": "Enclosure Beads"
+    },
+    {
+      "trait_type": "04 Eyes",
+      "value": "Classic Eyes"
+    },
+    {
+      "trait_type": "05 Head",
+      "value": "Slot Machine"
+    },
+    {
+      "trait_type": "06 Fit",
+      "value": "Animal Feeder"
+    },
+    {
+      "trait_type": "07 Nose",
+      "value": "Rare Phoenix Beak"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

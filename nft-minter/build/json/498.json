@@ -1,0 +1,39 @@
+{
+  "name": "Phoenix NFT 500 #498",
+  "description": "500 NFT collection of Phoenix",
+  "image": "./images/498.png",
+  "dna": "4a034ae020b1a0db7957b10b96944a71a3292bd6",
+  "edition": 498,
+  "date": 1720541556291,
+  "attributes": [
+    {
+      "trait_type": "01 Background",
+      "value": "Reborn Dawn"
+    },
+    {
+      "trait_type": "02 Skin",
+      "value": "OG Phoenix"
+    },
+    {
+      "trait_type": "03 Decor",
+      "value": "Enclosure Beads"
+    },
+    {
+      "trait_type": "04 Eyes",
+      "value": "Architect Lens"
+    },
+    {
+      "trait_type": "05 Head",
+      "value": "BvB Train"
+    },
+    {
+      "trait_type": "06 Fit",
+      "value": "Animal Feeder"
+    },
+    {
+      "trait_type": "07 Nose",
+      "value": "Gold Phoenix Beak"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

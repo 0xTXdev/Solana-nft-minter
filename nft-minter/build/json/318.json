@@ -1,0 +1,39 @@
+{
+  "name": "Phoenix NFT 500 #318",
+  "description": "500 NFT collection of Phoenix",
+  "image": "./images/318.png",
+  "dna": "021ef155c82131e6afa21061dea9f43f23880d79",
+  "edition": 318,
+  "date": 1720541394177,
+  "attributes": [
+    {
+      "trait_type": "01 Background",
+      "value": "Bright Yellow"
+    },
+    {
+      "trait_type": "02 Skin",
+      "value": "Mars Phoenix"
+    },
+    {
+      "trait_type": "03 Decor",
+      "value": "Enclosure Beads"
+    },
+    {
+      "trait_type": "04 Eyes",
+      "value": "Architect Lens"
+    },
+    {
+      "trait_type": "05 Head",
+      "value": "RIP"
+    },
+    {
+      "trait_type": "06 Fit",
+      "value": "Mafioso Lord"
+    },
+    {
+      "trait_type": "07 Nose",
+      "value": "Gold Phoenix Beak"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

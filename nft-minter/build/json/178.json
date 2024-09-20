@@ -1,0 +1,39 @@
+{
+  "name": "Phoenix NFT 500 #178",
+  "description": "500 NFT collection of Phoenix",
+  "image": "./images/178.png",
+  "dna": "ba5a7bb8bf4f0fe7cefafd2c16afa3ac52bb780e",
+  "edition": 178,
+  "date": 1720541270765,
+  "attributes": [
+    {
+      "trait_type": "01 Background",
+      "value": "Hell"
+    },
+    {
+      "trait_type": "02 Skin",
+      "value": "Gold Phoenix"
+    },
+    {
+      "trait_type": "03 Decor",
+      "value": "Royal Gems"
+    },
+    {
+      "trait_type": "04 Eyes",
+      "value": "Architect Lens"
+    },
+    {
+      "trait_type": "05 Head",
+      "value": "BvB Sun Town"
+    },
+    {
+      "trait_type": "06 Fit",
+      "value": "Mafioso Lord"
+    },
+    {
+      "trait_type": "07 Nose",
+      "value": "Gold Phoenix Beak"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

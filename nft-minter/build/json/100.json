@@ -1,0 +1,39 @@
+{
+  "name": "Phoenix NFT 500 #100",
+  "description": "500 NFT collection of Phoenix",
+  "image": "./images/100.png",
+  "dna": "7942851033d908fa7f5ced51d01336cfc719a7ca",
+  "edition": 100,
+  "date": 1720541201084,
+  "attributes": [
+    {
+      "trait_type": "01 Background",
+      "value": "Bright Yellow"
+    },
+    {
+      "trait_type": "02 Skin",
+      "value": "Snow Phoenix"
+    },
+    {
+      "trait_type": "03 Decor",
+      "value": "Royal Gems"
+    },
+    {
+      "trait_type": "04 Eyes",
+      "value": "Bloodshot Eyes"
+    },
+    {
+      "trait_type": "05 Head",
+      "value": "BvB Sun Town"
+    },
+    {
+      "trait_type": "06 Fit",
+      "value": "Zookeeper"
+    },
+    {
+      "trait_type": "07 Nose",
+      "value": "Gold Phoenix Beak"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

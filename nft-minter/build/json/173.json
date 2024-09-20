@@ -1,0 +1,39 @@
+{
+  "name": "Phoenix NFT 500 #173",
+  "description": "500 NFT collection of Phoenix",
+  "image": "./images/173.png",
+  "dna": "92940486fbdcf47d72624ed7d8b2c7390a12a086",
+  "edition": 173,
+  "date": 1720541266295,
+  "attributes": [
+    {
+      "trait_type": "01 Background",
+      "value": "Bright Yellow"
+    },
+    {
+      "trait_type": "02 Skin",
+      "value": "Mars Phoenix"
+    },
+    {
+      "trait_type": "03 Decor",
+      "value": "Royal Gems"
+    },
+    {
+      "trait_type": "04 Eyes",
+      "value": "Bloodshot Eyes"
+    },
+    {
+      "trait_type": "05 Head",
+      "value": "BvB Sun Town"
+    },
+    {
+      "trait_type": "06 Fit",
+      "value": "Elite Warrior"
+    },
+    {
+      "trait_type": "07 Nose",
+      "value": "Gold Phoenix Beak"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Phoenix NFT 500 #333",
+  "description": "500 NFT collection of Phoenix",
+  "image": "./images/333.png",
+  "dna": "adb4f22e73248d2bb17fd700fbcdcb6996da24cd",
+  "edition": 333,
+  "date": 1720541407616,
+  "attributes": [
+    {
+      "trait_type": "01 Background",
+      "value": "Hell"
+    },
+    {
+      "trait_type": "02 Skin",
+      "value": "OG Phoenix"
+    },
+    {
+      "trait_type": "03 Decor",
+      "value": "Royal Gems"
+    },
+    {
+      "trait_type": "04 Eyes",
+      "value": "Classic Eyes"
+    },
+    {
+      "trait_type": "05 Head",
+      "value": "RIP"
+    },
+    {
+      "trait_type": "06 Fit",
+      "value": "Zookeeper"
+    },
+    {
+      "trait_type": "07 Nose",
+      "value": "Rare Phoenix Beak"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

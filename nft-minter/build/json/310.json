@@ -1,0 +1,39 @@
+{
+  "name": "Phoenix NFT 500 #310",
+  "description": "500 NFT collection of Phoenix",
+  "image": "./images/310.png",
+  "dna": "ae2f03330b6126461ed3d482da6337fb17b0dfc6",
+  "edition": 310,
+  "date": 1720541387260,
+  "attributes": [
+    {
+      "trait_type": "01 Background",
+      "value": "Reborn Dawn"
+    },
+    {
+      "trait_type": "02 Skin",
+      "value": "Snow Phoenix"
+    },
+    {
+      "trait_type": "03 Decor",
+      "value": "Enclosure Beads"
+    },
+    {
+      "trait_type": "04 Eyes",
+      "value": "Architect Lens"
+    },
+    {
+      "trait_type": "05 Head",
+      "value": "Bell"
+    },
+    {
+      "trait_type": "06 Fit",
+      "value": "Elite Warrior"
+    },
+    {
+      "trait_type": "07 Nose",
+      "value": "Gold Phoenix Beak"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

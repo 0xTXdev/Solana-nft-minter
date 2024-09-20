@@ -1,0 +1,39 @@
+{
+  "name": "Phoenix NFT 500 #370",
+  "description": "500 NFT collection of Phoenix",
+  "image": "./images/370.png",
+  "dna": "09e29b5ffa5b6b5b4ac5974d43b96178cb0dbf6f",
+  "edition": 370,
+  "date": 1720541441056,
+  "attributes": [
+    {
+      "trait_type": "01 Background",
+      "value": "Mono"
+    },
+    {
+      "trait_type": "02 Skin",
+      "value": "Snow Phoenix"
+    },
+    {
+      "trait_type": "03 Decor",
+      "value": "Enclosure Beads"
+    },
+    {
+      "trait_type": "04 Eyes",
+      "value": "Architect Lens"
+    },
+    {
+      "trait_type": "05 Head",
+      "value": "Slot Machine"
+    },
+    {
+      "trait_type": "06 Fit",
+      "value": "Mafioso Lord"
+    },
+    {
+      "trait_type": "07 Nose",
+      "value": "Gold Phoenix Beak"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

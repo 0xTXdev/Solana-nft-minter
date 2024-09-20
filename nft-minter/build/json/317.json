@@ -1,0 +1,39 @@
+{
+  "name": "Phoenix NFT 500 #317",
+  "description": "500 NFT collection of Phoenix",
+  "image": "./images/317.png",
+  "dna": "bc57c080965868e51b41c92baf5863b888483df2",
+  "edition": 317,
+  "date": 1720541393297,
+  "attributes": [
+    {
+      "trait_type": "01 Background",
+      "value": "Nude"
+    },
+    {
+      "trait_type": "02 Skin",
+      "value": "OG Phoenix"
+    },
+    {
+      "trait_type": "03 Decor",
+      "value": "Royal Gems"
+    },
+    {
+      "trait_type": "04 Eyes",
+      "value": "Architect Lens"
+    },
+    {
+      "trait_type": "05 Head",
+      "value": "RIP"
+    },
+    {
+      "trait_type": "06 Fit",
+      "value": "Mafioso Lord"
+    },
+    {
+      "trait_type": "07 Nose",
+      "value": "Gold Phoenix Beak"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

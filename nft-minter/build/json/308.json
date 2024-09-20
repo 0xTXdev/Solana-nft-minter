@@ -1,0 +1,39 @@
+{
+  "name": "Phoenix NFT 500 #308",
+  "description": "500 NFT collection of Phoenix",
+  "image": "./images/308.png",
+  "dna": "f46c4807f03ffafd140e4ee2209fe936c1c35992",
+  "edition": 308,
+  "date": 1720541385562,
+  "attributes": [
+    {
+      "trait_type": "01 Background",
+      "value": "Hell"
+    },
+    {
+      "trait_type": "02 Skin",
+      "value": "Mars Phoenix"
+    },
+    {
+      "trait_type": "03 Decor",
+      "value": "Royal Gems"
+    },
+    {
+      "trait_type": "04 Eyes",
+      "value": "Classic Eyes"
+    },
+    {
+      "trait_type": "05 Head",
+      "value": "BvB Train"
+    },
+    {
+      "trait_type": "06 Fit",
+      "value": "Dealer"
+    },
+    {
+      "trait_type": "07 Nose",
+      "value": "Gold Phoenix Beak"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

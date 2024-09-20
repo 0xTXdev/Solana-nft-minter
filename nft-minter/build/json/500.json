@@ -1,0 +1,39 @@
+{
+  "name": "Phoenix NFT 500 #500",
+  "description": "500 NFT collection of Phoenix",
+  "image": "./images/500.png",
+  "dna": "a5b08ee769bab929ff01e8f46df278c1c49a9603",
+  "edition": 500,
+  "date": 1720541558222,
+  "attributes": [
+    {
+      "trait_type": "01 Background",
+      "value": "Nude"
+    },
+    {
+      "trait_type": "02 Skin",
+      "value": "OG Phoenix"
+    },
+    {
+      "trait_type": "03 Decor",
+      "value": "Royal Gems"
+    },
+    {
+      "trait_type": "04 Eyes",
+      "value": "Flamed Eyes"
+    },
+    {
+      "trait_type": "05 Head",
+      "value": "BvB Train"
+    },
+    {
+      "trait_type": "06 Fit",
+      "value": "Dealer"
+    },
+    {
+      "trait_type": "07 Nose",
+      "value": "Rare Phoenix Beak"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

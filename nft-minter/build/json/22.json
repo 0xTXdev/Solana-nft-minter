@@ -1,0 +1,39 @@
+{
+  "name": "Phoenix NFT 500 #22",
+  "description": "500 NFT collection of Phoenix",
+  "image": "./images/22.png",
+  "dna": "232e06a2a0bbc25b9e8fbfc5488c3fc25405a35c",
+  "edition": 22,
+  "date": 1720541132058,
+  "attributes": [
+    {
+      "trait_type": "01 Background",
+      "value": "Hell"
+    },
+    {
+      "trait_type": "02 Skin",
+      "value": "Mars Phoenix"
+    },
+    {
+      "trait_type": "03 Decor",
+      "value": "Enclosure Beads"
+    },
+    {
+      "trait_type": "04 Eyes",
+      "value": "Architect Lens"
+    },
+    {
+      "trait_type": "05 Head",
+      "value": "RIP"
+    },
+    {
+      "trait_type": "06 Fit",
+      "value": "Animal Feeder"
+    },
+    {
+      "trait_type": "07 Nose",
+      "value": "Rare Phoenix Beak"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

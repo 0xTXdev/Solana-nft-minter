@@ -1,0 +1,39 @@
+{
+  "name": "Phoenix NFT 500 #227",
+  "description": "500 NFT collection of Phoenix",
+  "image": "./images/227.png",
+  "dna": "a59847fc2936c5d9687856031e87f29b06a349f4",
+  "edition": 227,
+  "date": 1720541314404,
+  "attributes": [
+    {
+      "trait_type": "01 Background",
+      "value": "Reborn Dawn"
+    },
+    {
+      "trait_type": "02 Skin",
+      "value": "OG Phoenix"
+    },
+    {
+      "trait_type": "03 Decor",
+      "value": "Enclosure Beads"
+    },
+    {
+      "trait_type": "04 Eyes",
+      "value": "Flamed Eyes"
+    },
+    {
+      "trait_type": "05 Head",
+      "value": "Slot Machine"
+    },
+    {
+      "trait_type": "06 Fit",
+      "value": "Animal Feeder"
+    },
+    {
+      "trait_type": "07 Nose",
+      "value": "Rare Phoenix Beak"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

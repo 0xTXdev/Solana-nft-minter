@@ -1,0 +1,39 @@
+{
+  "name": "Phoenix NFT 500 #364",
+  "description": "500 NFT collection of Phoenix",
+  "image": "./images/364.png",
+  "dna": "7b53ee1edfe36534491a96c8f0b8e3519e3e7dbd",
+  "edition": 364,
+  "date": 1720541435895,
+  "attributes": [
+    {
+      "trait_type": "01 Background",
+      "value": "Mono"
+    },
+    {
+      "trait_type": "02 Skin",
+      "value": "OG Phoenix"
+    },
+    {
+      "trait_type": "03 Decor",
+      "value": "Enclosure Beads"
+    },
+    {
+      "trait_type": "04 Eyes",
+      "value": "Architect Lens"
+    },
+    {
+      "trait_type": "05 Head",
+      "value": "Slot Machine"
+    },
+    {
+      "trait_type": "06 Fit",
+      "value": "Legends of Wings"
+    },
+    {
+      "trait_type": "07 Nose",
+      "value": "Rare Phoenix Beak"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Phoenix NFT 500 #43",
+  "description": "500 NFT collection of Phoenix",
+  "image": "./images/43.png",
+  "dna": "45db9fe051253b5f39114c62ea1dc512bf3a3c8c",
+  "edition": 43,
+  "date": 1720541150809,
+  "attributes": [
+    {
+      "trait_type": "01 Background",
+      "value": "Hell"
+    },
+    {
+      "trait_type": "02 Skin",
+      "value": "Mars Phoenix"
+    },
+    {
+      "trait_type": "03 Decor",
+      "value": "Royal Gems"
+    },
+    {
+      "trait_type": "04 Eyes",
+      "value": "Classic Eyes"
+    },
+    {
+      "trait_type": "05 Head",
+      "value": "Slot Machine"
+    },
+    {
+      "trait_type": "06 Fit",
+      "value": "Elite Warrior"
+    },
+    {
+      "trait_type": "07 Nose",
+      "value": "Gold Phoenix Beak"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

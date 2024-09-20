@@ -1,0 +1,39 @@
+{
+  "name": "Phoenix NFT 500 #261",
+  "description": "500 NFT collection of Phoenix",
+  "image": "./images/261.png",
+  "dna": "ec7246251d57ad71dff8b962e739bad55ce7d4e0",
+  "edition": 261,
+  "date": 1720541344544,
+  "attributes": [
+    {
+      "trait_type": "01 Background",
+      "value": "Mono"
+    },
+    {
+      "trait_type": "02 Skin",
+      "value": "Gold Phoenix"
+    },
+    {
+      "trait_type": "03 Decor",
+      "value": "Royal Gems"
+    },
+    {
+      "trait_type": "04 Eyes",
+      "value": "Flamed Eyes"
+    },
+    {
+      "trait_type": "05 Head",
+      "value": "BvB Sun Town"
+    },
+    {
+      "trait_type": "06 Fit",
+      "value": "Triad"
+    },
+    {
+      "trait_type": "07 Nose",
+      "value": "Gold Phoenix Beak"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

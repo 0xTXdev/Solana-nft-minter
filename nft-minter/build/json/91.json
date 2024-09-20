@@ -1,0 +1,39 @@
+{
+  "name": "Phoenix NFT 500 #91",
+  "description": "500 NFT collection of Phoenix",
+  "image": "./images/91.png",
+  "dna": "dfed40e2cbdda2566325a106b60befb56fff8c10",
+  "edition": 91,
+  "date": 1720541193384,
+  "attributes": [
+    {
+      "trait_type": "01 Background",
+      "value": "Nude"
+    },
+    {
+      "trait_type": "02 Skin",
+      "value": "Mars Phoenix"
+    },
+    {
+      "trait_type": "03 Decor",
+      "value": "Royal Gems"
+    },
+    {
+      "trait_type": "04 Eyes",
+      "value": "Architect Lens"
+    },
+    {
+      "trait_type": "05 Head",
+      "value": "Bell"
+    },
+    {
+      "trait_type": "06 Fit",
+      "value": "Animal Feeder"
+    },
+    {
+      "trait_type": "07 Nose",
+      "value": "Gold Phoenix Beak"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

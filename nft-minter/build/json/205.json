@@ -1,0 +1,39 @@
+{
+  "name": "Phoenix NFT 500 #205",
+  "description": "500 NFT collection of Phoenix",
+  "image": "./images/205.png",
+  "dna": "f460c5dc9d2980675ff7bde247794ee2b4ff0c55",
+  "edition": 205,
+  "date": 1720541295008,
+  "attributes": [
+    {
+      "trait_type": "01 Background",
+      "value": "Mono"
+    },
+    {
+      "trait_type": "02 Skin",
+      "value": "Mars Phoenix"
+    },
+    {
+      "trait_type": "03 Decor",
+      "value": "Enclosure Beads"
+    },
+    {
+      "trait_type": "04 Eyes",
+      "value": "Architect Lens"
+    },
+    {
+      "trait_type": "05 Head",
+      "value": "Slot Machine"
+    },
+    {
+      "trait_type": "06 Fit",
+      "value": "Triad"
+    },
+    {
+      "trait_type": "07 Nose",
+      "value": "Rare Phoenix Beak"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

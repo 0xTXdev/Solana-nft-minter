@@ -1,0 +1,39 @@
+{
+  "name": "Phoenix NFT 500 #321",
+  "description": "500 NFT collection of Phoenix",
+  "image": "./images/321.png",
+  "dna": "2ae56bc7eda1c4ec71bd9d9bf1761aebc5a436b3",
+  "edition": 321,
+  "date": 1720541397018,
+  "attributes": [
+    {
+      "trait_type": "01 Background",
+      "value": "Hell"
+    },
+    {
+      "trait_type": "02 Skin",
+      "value": "OG Phoenix"
+    },
+    {
+      "trait_type": "03 Decor",
+      "value": "Enclosure Beads"
+    },
+    {
+      "trait_type": "04 Eyes",
+      "value": "Bloodshot Eyes"
+    },
+    {
+      "trait_type": "05 Head",
+      "value": "RIP"
+    },
+    {
+      "trait_type": "06 Fit",
+      "value": "Dealer"
+    },
+    {
+      "trait_type": "07 Nose",
+      "value": "Rare Phoenix Beak"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

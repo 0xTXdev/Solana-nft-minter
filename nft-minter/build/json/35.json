@@ -1,0 +1,39 @@
+{
+  "name": "Phoenix NFT 500 #35",
+  "description": "500 NFT collection of Phoenix",
+  "image": "./images/35.png",
+  "dna": "bb450d986d80bbb5a4794e14e6f35f58b02bb7d0",
+  "edition": 35,
+  "date": 1720541143828,
+  "attributes": [
+    {
+      "trait_type": "01 Background",
+      "value": "Mono"
+    },
+    {
+      "trait_type": "02 Skin",
+      "value": "Snow Phoenix"
+    },
+    {
+      "trait_type": "03 Decor",
+      "value": "Enclosure Beads"
+    },
+    {
+      "trait_type": "04 Eyes",
+      "value": "Classic Eyes"
+    },
+    {
+      "trait_type": "05 Head",
+      "value": "Slot Machine"
+    },
+    {
+      "trait_type": "06 Fit",
+      "value": "Animal Feeder"
+    },
+    {
+      "trait_type": "07 Nose",
+      "value": "Rare Phoenix Beak"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

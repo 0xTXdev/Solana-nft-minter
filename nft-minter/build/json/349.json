@@ -1,0 +1,39 @@
+{
+  "name": "Phoenix NFT 500 #349",
+  "description": "500 NFT collection of Phoenix",
+  "image": "./images/349.png",
+  "dna": "d81d33e52a0854e2edc20555d94fd5e9a2bdc381",
+  "edition": 349,
+  "date": 1720541422103,
+  "attributes": [
+    {
+      "trait_type": "01 Background",
+      "value": "Hell"
+    },
+    {
+      "trait_type": "02 Skin",
+      "value": "OG Phoenix"
+    },
+    {
+      "trait_type": "03 Decor",
+      "value": "Enclosure Beads"
+    },
+    {
+      "trait_type": "04 Eyes",
+      "value": "Night Shadows"
+    },
+    {
+      "trait_type": "05 Head",
+      "value": "BvB Train"
+    },
+    {
+      "trait_type": "06 Fit",
+      "value": "Mafioso Lord"
+    },
+    {
+      "trait_type": "07 Nose",
+      "value": "Gold Phoenix Beak"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

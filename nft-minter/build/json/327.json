@@ -1,0 +1,39 @@
+{
+  "name": "Phoenix NFT 500 #327",
+  "description": "500 NFT collection of Phoenix",
+  "image": "./images/327.png",
+  "dna": "a3ff8a3e9e198975e1c20c463673e3889d0584a5",
+  "edition": 327,
+  "date": 1720541402379,
+  "attributes": [
+    {
+      "trait_type": "01 Background",
+      "value": "Nude"
+    },
+    {
+      "trait_type": "02 Skin",
+      "value": "Mars Phoenix"
+    },
+    {
+      "trait_type": "03 Decor",
+      "value": "Enclosure Beads"
+    },
+    {
+      "trait_type": "04 Eyes",
+      "value": "Classic Eyes"
+    },
+    {
+      "trait_type": "05 Head",
+      "value": "BvB Train"
+    },
+    {
+      "trait_type": "06 Fit",
+      "value": "Elite Warrior"
+    },
+    {
+      "trait_type": "07 Nose",
+      "value": "Gold Phoenix Beak"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

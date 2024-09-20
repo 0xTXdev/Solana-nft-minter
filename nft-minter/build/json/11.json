@@ -1,0 +1,39 @@
+{
+  "name": "Phoenix NFT 500 #11",
+  "description": "500 NFT collection of Phoenix",
+  "image": "./images/11.png",
+  "dna": "2ffb3dab8b84ba673d176dcd9fc70d4da3bc5907",
+  "edition": 11,
+  "date": 1720541121770,
+  "attributes": [
+    {
+      "trait_type": "01 Background",
+      "value": "Nude"
+    },
+    {
+      "trait_type": "02 Skin",
+      "value": "OG Phoenix"
+    },
+    {
+      "trait_type": "03 Decor",
+      "value": "Enclosure Beads"
+    },
+    {
+      "trait_type": "04 Eyes",
+      "value": "Classic Eyes"
+    },
+    {
+      "trait_type": "05 Head",
+      "value": "BvB Sun Town"
+    },
+    {
+      "trait_type": "06 Fit",
+      "value": "Elite Warrior"
+    },
+    {
+      "trait_type": "07 Nose",
+      "value": "Gold Phoenix Beak"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

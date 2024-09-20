@@ -1,0 +1,39 @@
+{
+  "name": "Phoenix NFT 500 #138",
+  "description": "500 NFT collection of Phoenix",
+  "image": "./images/138.png",
+  "dna": "ea3a2960b5ff1117a432d9b5ed6a5ca951868559",
+  "edition": 138,
+  "date": 1720541234918,
+  "attributes": [
+    {
+      "trait_type": "01 Background",
+      "value": "Mono"
+    },
+    {
+      "trait_type": "02 Skin",
+      "value": "Gold Phoenix"
+    },
+    {
+      "trait_type": "03 Decor",
+      "value": "Royal Gems"
+    },
+    {
+      "trait_type": "04 Eyes",
+      "value": "Classic Eyes"
+    },
+    {
+      "trait_type": "05 Head",
+      "value": "Slot Machine"
+    },
+    {
+      "trait_type": "06 Fit",
+      "value": "Animal Feeder"
+    },
+    {
+      "trait_type": "07 Nose",
+      "value": "Gold Phoenix Beak"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
